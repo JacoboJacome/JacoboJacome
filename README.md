@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jacobo Jacome</h1>
-<h3 align="center">A passionate Full Stack developer from Colombia</h3>
+<h3 align="center">A Full Stack developer from Colombia</h3>
 
-- 🔭 I’m currently working on [Biblio-Api](https://github.com/JacoboJacome/biblio_Api)
+- 🔭 I’m currently working on Nuclea Solutions as Software Engineer.
 
-- 🌱 I’m currently learning **Python - Django, Node Js - Express, GraphQl**
+- 🌱 I’m working with Flutterflow, Typescript, Python, Firebase.
 
-- 👨‍💻 All of my projects are available at [https://portafolio-inky-three.vercel.app/](https://portafolio-inky-three.vercel.app/)
+- 💬 Ask me about **Flutterflow**.
 
-- 💬 Ask me about **Django, Node Js**
-
-- 📫 How to reach me **jacobojacome@gmail.com**
+- 📫 How to reach me **jacobojacome@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
