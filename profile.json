@@ -1,0 +1,72 @@
+{
+  "user": "JacoboJacome",
+  "hero": {
+    "name": "Jacobo",
+    "monogram": "JJ",
+    "tagline": "Full-stack engineer from Colombia. I take products from idea to production, with AI in the stack.",
+    "site_label": "jacobo-jacome.vercel.app",
+    "site_url": "https://jacobo-jacome.vercel.app",
+    "chips": ["Next.js · TypeScript", "FlutterFlow expert", "AI agents & MCP", "Supabase · Firebase"]
+  },
+  "badges": [
+    {"id": "li", "label": "LinkedIn", "handle": "Jacobo Jácome", "icon": "in", "tile": "blue",
+     "url": "https://www.linkedin.com/in/jacobo-j%C3%A1come-5bab44213/"},
+    {"id": "mail", "label": "Email", "handle": "jacobojacome@gmail.com", "icon": "mail", "tile": "rose",
+     "url": "mailto:jacobojacome@gmail.com"},
+    {"id": "site", "label": "Portfolio", "handle": "jacobo-jacome.vercel.app", "icon": "globe", "tile": "teal",
+     "url": "https://jacobo-jacome.vercel.app"}
+  ],
+  "whoami": {
+    "title": "jacobo@colombia: ~",
+    "blocks": [
+      {"cmd": "whoami", "out": [
+        "jacobo  ·  full-stack engineer  ·  Colombia",
+        "5+ years and 10+ web and mobile products in production, for clients in the Americas and Europe."
+      ]},
+      {"cmd": "cat now.txt", "out": [
+        "> Software Engineer at Solvo Global",
+        "> Building with Claude Code, MCP and custom agent skills every day",
+        "> Going deeper into RAG, vector search and Vertex AI"
+      ]},
+      {"cmd": "cat certs.txt", "out": [
+        "> Anthropic 2026: Claude Code · MCP · Claude API · Agent Skills",
+        "> Taught FlutterFlow to 5 intern cohorts at Nuclea Solutions"
+      ]}
+    ]
+  },
+  "toolbox": [
+    {"label": "Frontend", "items": ["TypeScript", "Next.js", "React", "Tailwind CSS", "Astro"]},
+    {"label": "Mobile", "items": ["FlutterFlow", "Flutter", "Dart"]},
+    {"label": "Backend & data", "items": ["Node.js", "Express", "Python", "Supabase", "PostgreSQL", "Firebase", "MongoDB"]},
+    {"label": "AI", "items": ["Claude Code", "MCP", "Anthropic API", "OpenAI", "Gemini", "RAG"]},
+    {"label": "Cloud & payments", "items": ["Google Cloud", "Vercel", "GitHub Actions", "Stripe"]},
+    {"label": "Automation", "items": ["n8n", "Make", "Apps Script"]}
+  ],
+  "projects": [
+    {"id": "casa-de-oracion", "name": "Casa de Oración", "initials": "CO", "status": "live",
+     "description": "A church's digital home: the website, a Flutter songbook app and a Bible app, all on one Supabase backend.",
+     "short": "Church website plus songbook and Bible apps",
+     "stack": ["Next.js", "Flutter", "Supabase"], "footer": "web + 2 mobile apps",
+     "url": "https://casa-de-oracion.vercel.app"},
+    {"id": "oleo", "name": "Oleo Inversiones", "initials": "OI", "status": "client",
+     "description": "Daily production reporting for a palm-oil extraction plant, replacing a macro-driven Excel workbook.",
+     "short": "Daily production reports for a palm-oil plant",
+     "stack": ["Next.js", "TypeScript", "Supabase"], "footer": "kiosk tablets · role-based access"},
+    {"id": "comanda", "name": "Comanda", "initials": "CM", "status": "SaaS",
+     "description": "Multi-business admin for restaurants and cafés: tables, orders, kitchen, catalog and inventory.",
+     "short": "Restaurant admin: tables, orders and kitchen",
+     "stack": ["Next.js", "TypeScript", "Supabase"], "footer": "multi-tenant · role-based"},
+    {"id": "trazored", "name": "TrazoRed", "initials": "TR", "status": "client",
+     "description": "Network design for internet providers: draw the network, then get the bill of materials, quote and PDF plans.",
+     "short": "Network design and quoting for ISPs",
+     "stack": ["Next.js", "React", "IndexedDB"], "footer": "runs in the browser, no server"},
+    {"id": "moviltransporte", "name": "MóvilTransporte", "initials": "MT", "status": "client",
+     "description": "Operations platform for a transport company in the oil sector: fleet, drivers, daily logs and invoicing.",
+     "short": "Fleet, drivers and invoicing for a transport firm",
+     "stack": ["Next.js", "Firebase", "TypeScript"], "footer": "5 roles · one web tool"},
+    {"id": "datapalm", "name": "DataPalm", "initials": "DP", "status": "product",
+     "description": "Oil-palm plantation management, from field records to reports, with its own sales landing page.",
+     "short": "Oil-palm plantation management",
+     "stack": ["Next.js", "Supabase", "TypeScript"], "footer": "app + landing page"}
+  ]
+}
