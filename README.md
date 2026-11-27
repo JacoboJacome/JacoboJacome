@@ -8,13 +8,13 @@
 <a href="https://jacobo-jacome.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/badge-site-dark.svg"><img src="assets/badge-site-light.svg" alt="Portfolio: jacobo-jacome.vercel.app" height="44"></picture></a>
 </p>
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 1,719 contributions in the last year, 8-day current streak, longest streak 13 days, 3,454 contributions since 2021."></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/github-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/github-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github-light.svg" width="100%" alt="On GitHub: 1,718 contributions in the last year, 0-day current streak, longest streak 13 days, 3,454 contributions since 2021."></picture>
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="Contribution graph: 919 contributions in the last 6 months."></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/graph-6m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-6m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-6m-dark.svg"><img src="assets/graph-6m-light.svg" width="100%" alt="Contribution graph: 906 contributions in the last 6 months."></picture>
 
 <details><summary><b>Last 12 months</b></summary>
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="Contribution graph: 1,719 contributions in the last 12 months."></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/graph-12m-phone-dark.svg"><source media="(max-width: 600px)" srcset="assets/graph-12m-phone-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/graph-12m-dark.svg"><img src="assets/graph-12m-light.svg" width="100%" alt="Contribution graph: 1,718 contributions in the last 12 months."></picture>
 </details>
 <details><summary><b>2026</b> · 1,568 contributions</summary>
 
